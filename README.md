@@ -29,7 +29,7 @@ const aboutMe = {
 
 
 <p>En este proyecto diseñe y desarrolle una aplicacion de paises, cuya informacion es extraida de una api externa</p>
-<p>Posee: busqueda, filtros, pagina, cracion y formularios controlados</p>
+<p>Posee: busqueda, filtros, paginano, cración de actividades y formularios controlados</p>
 
 <h4>Landing Page & Home</h4>
 <p>
