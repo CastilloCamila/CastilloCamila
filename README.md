@@ -25,10 +25,11 @@ const aboutMe = {
 ---
 ### 👀 Mis Proyectos
 
-<h4>Landing Page & Home</h4>
+
 <p>En este proyecto diseñe y desarrolle una aplicacion de paises, cuya informacion es extraida de una api externa</p>
 <p>Posee: busqueda, filtros, pagina, cracion y formularios controlados</p>
 
+<h4>Landing Page & Home</h4>
 <p>
 <img src="./img/landingAppCountries.png" width="480" height="280">
 <img src="./img/appCountries.png" width="480" height="280">
