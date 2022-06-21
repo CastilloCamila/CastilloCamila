@@ -2,7 +2,9 @@
 
 <img src="./img/Cod_Portada.gif" width="1500" height="400">
 
-<h3 align="center">Tengo 19 años y me apasiona el mundo de la tecnologia y el desarrollo. Descubrí el mundo de la programación desde mi escuela secundaria y desde entonces no deje de aprender nuevas tecnologias para poder crecer profecionalmente . Soy Full Stack Developer con orientacion hacia front-end. Quiero compartirte mis habilidades. Bienvenido!!</h3>
+<h3 align="center">Tengo 19 años y me apasiona el mundo de la tecnologia y el desarrollo. Descubrí el mundo de la programación desde mi escuela secundaria y desde entonces no deje de aprender nuevas tecnologias para poder crecer profecionalmente . Soy Full Stack Developer con orientacion hacia front-end. </h3>
+<h4 align="center">Quiero compartirte mis habilidades. </h4>
+<h4 align="center"> Bienvenido!! </h4>
 
 ```javascript
 const aboutMe = {
