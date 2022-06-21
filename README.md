@@ -60,19 +60,15 @@ const aboutMe = {
    <a href="mailto:camila.castillo.manrique@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
    
 </p>
+   
 ---
    
    <h3 align="left">Encontrame en:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/camilacastillo-fullstack-developer/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
- ---
    
  ---
+   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=castillocamila&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryancpineda" /></p>
-
-
-
-
-
 
 
