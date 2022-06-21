@@ -58,7 +58,7 @@ const aboutMe = {
 <p align="left">
 <a href="https://www.linkedin.com/in/camilacastillo-fullstack-developer/" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="Linkedin" height="30" width="40" /></a>
 <a href="https://wa.me/+542995324123" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="WhatsApp" height="30" width="40" /></a>
-   <a href="camila.castillo.manrique@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
+   <a href="mailto:camila.castillo.manrique@gmail.com" target="_blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gmail.svg" alt="Email" height="30" width="40" /></a>
    
 </p>
 
