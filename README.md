@@ -38,7 +38,7 @@ const aboutMe = {
 <h4> ¿Queres ver todo mi proyecto?  👇 👇
 
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CastilloCamila&repo=PI-Countries&theme=radical "AData-Structure-and-Algorithms")](https://github.com/Quananhle/Data-Structure-and-Algorithms)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CastilloCamila&repo=PI-Countries&theme=radical "AData-Structure-and-Algorithms")](https://github.com/CastilloCamila/PI-Countries)
 
  ---
 
