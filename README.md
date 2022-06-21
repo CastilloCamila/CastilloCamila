@@ -25,7 +25,7 @@ const aboutMe = {
 ---
 ### 👀 Mis Proyectos
 
-<h4>Landing Page & Home
+<h4>Landing Page & Home</h4>
 
 <img src="./img/landingAppCountries.png" width="500" height="300">
 <img src="./img/appCountries.png" width="500" height="300">
