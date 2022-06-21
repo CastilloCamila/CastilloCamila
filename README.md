@@ -24,6 +24,15 @@ const aboutMe = {
 
 ---
 ### 👀 Mis Proyectos
+
+<h4>Landing Page & Home
+
+<img src="./img/landingAppCountries.png" width="500" height="300">
+<img src="./img/appCountries.png" width="500" height="300">
+
+<h4> ¿Queres ver todo mi proyecto?  👇 👇
+
+
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CastilloCamila&repo=PI-Countries&theme=radical "AData-Structure-and-Algorithms")](https://github.com/Quananhle/Data-Structure-and-Algorithms)
 
  ---
