@@ -36,10 +36,13 @@ const aboutMe = {
 
 <img src="./img/portadaMemoryGame.jpg" width="380" height="680">
 </p>
-   
-<h4> ¿Queres ver todo mi proyecto?  👇 👇
+
+<h4> ¿Queres ver todo mi proyecto?  👇 👇   </h4>
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CastilloCamila&repo=MemoryGame_ReactNative&theme=radical "AData-Structure-and-Algorithms")](https://github.com/CastilloCamila/MemoryGame_ReactNative)
+
+<h4> Descraga la APK y enpeza a jugar 👇 👇   </h4>
+<a href='https://expo.dev/accounts/camilacastillo/projects/MemoryGame/builds/e21d3406-383c-4564-aaee-e4723ff50296' > Download APK</a>
 
 <h2>Countries App</h2>
 <p>En este proyecto diseñe y desarrolle una aplicacion de paises, cuya informacion es extraida de una api externa</p>
