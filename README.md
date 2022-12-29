@@ -8,26 +8,40 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "she" | "her",
-   code: [Javascript, HTML, CSS, PHP],
-   technologies: {
-      frontEnd: {
-         js: ["React", "Redux"],
-         css: ["Bootstrap", ]
-      },
-      backEnd: {
-         js: ["Node", "Express"]
-      },
-      databases: ["MySQL", "PostgreSQL"],
-   },
-
+  pronouns: "she" | "her",
+  code: [Javascript, HTML, CSS, PHP],
+  technologies: {
+    frontEnd: {
+      js: ["React", "Redux"],
+      css: ["Bootstrap"],
+    },
+    backEnd: {
+      js: ["Node", "Express"],
+    },
+    databases: ["MySQL", "PostgreSQL"],
+  },
 };
 ```
 
 ---
+
 ### 👀 Mis Proyectos
 
+<h2>Memory Game</h2>
+<p>Este proyecto es un juego de memoria, donde tendras que dar vueltas las cartas hasta encontrar dos iguales</p>
+<p>Esta realizada en React Native con Expo-cli</p>
 
+<h4>Game</h4>
+<p>
+
+<img src="./img/portadaMemoryGame.jpg" width="380" height="680">
+</p>
+   
+<h4> ¿Queres ver todo mi proyecto?  👇 👇
+
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CastilloCamila&repo=MemoryGame_ReactNative&theme=radical "AData-Structure-and-Algorithms")](https://github.com/CastilloCamila/MemoryGame_ReactNative)
+
+<h2>Countries App</h2>
 <p>En este proyecto diseñe y desarrolle una aplicacion de paises, cuya informacion es extraida de una api externa</p>
 <p>Posee: busqueda, filtros, paginano, cración de actividades y formularios controlados</p>
 
@@ -39,10 +53,9 @@ const aboutMe = {
    
 <h4> ¿Queres ver todo mi proyecto?  👇 👇
 
-
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CastilloCamila&repo=PI-Countries&theme=radical "AData-Structure-and-Algorithms")](https://github.com/CastilloCamila/PI-Countries)
 
- ---
+---
 
 <h3 align="left">Tecnologias y lenguajes:</h3>
 <h3> Front-End:
@@ -51,7 +64,8 @@ const aboutMe = {
 <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/121-css3-512.png" alt="css3" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1024px-Bootstrap_logo.svg.png" alt="bootstrap" width="40" height="40"/> </a> 
 <a href="https://reactjs.org/" target="_blank"> <img src="https://seeklogo.com/images/R/react-logo-7B3CE81517-seeklogo.com.png" alt="react" width="40" height="40"/> </a> 
-<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a> </p> 
+<a href="https://redux.js.org" target="_blank"> <img src="https://seeklogo.com/images/R/redux-logo-9CA6836C12-seeklogo.com.png" alt="redux" width="40" height="40"/> </a>
+<a href="https://reactnative.dev/" target="_blank"> <img src="https://seeklogo.com/images/R/react-native-logo-221C671C70-seeklogo.com.png" alt="react native" width="40" height="40"/> </a> </p> 
 <p>JavaScript|HTML|CSS|Bootstrap|React|Redux</p>
 <h3>Back-End:
 <p>
@@ -59,7 +73,8 @@ const aboutMe = {
 <a href="https://expressjs.com" target="_blank"> <img src="https://i.cloudup.com/zfY6lL7eFa-3000x3000.png" alt="express" height="40"/> </a> 
 <a href="https://www.postgresql.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="postgresql" width="40" height="40"/> </a> 
 <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/></a> 
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="postman" width="40" height="40"/></a> 
+<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" alt="SQL" width="40" height="40"/></a>
+<a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://seeklogo.com/images/T/typescript-logo-27C45A95A6-seeklogo.com.png" alt="Typescript" width="80" height="40"/></a> 
 </p>
 <p> NodeJs | Express | Postgersql | Postman | MySql </p>
 <h3>Otros:
@@ -86,5 +101,3 @@ const aboutMe = {
  ---
    
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=castillocamila&show_icons=true&theme=dark&locale=en&layout=compact" alt="bryancpineda" /></p>
-
-
