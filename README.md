@@ -41,7 +41,7 @@ const aboutMe = {
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=CastilloCamila&repo=MemoryGame_ReactNative&theme=radical "AData-Structure-and-Algorithms")](https://github.com/CastilloCamila/MemoryGame_ReactNative)
 
-<h4> Descraga la APK y enpeza a jugar 👇 👇   </h4>
+<h4> Descarga la APK y empeza a jugar 👇 👇   </h4>
 <a href='https://expo.dev/accounts/camilacastillo/projects/MemoryGame/builds/e21d3406-383c-4564-aaee-e4723ff50296' > Download APK</a>
 
 <h2>Countries App</h2>
